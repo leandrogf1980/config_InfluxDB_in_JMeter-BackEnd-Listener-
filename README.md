@@ -3,9 +3,9 @@
 Para trabalhar com o InfluxDB na versão 2.0 ou superior, precisará adicionar o plugin ***“jmeter-plugins-influxdb2-listener”*** em: ***“apache-jmeter-5.5\lib\ext”***. Segue o link para baixar o plugin na versão 2.5:  
 https://github.com/mderevyankoaqa/jmeter-influxdb2-listener-plugin/releases/download/v2.5/jmeter-plugins-influxdb2-listener-2.5.jar
 
-1- Após adiconar o plugin (conforme orientação acima), abra o ***Apache JMeter*** e carregue algum script de sua preferenci.
+1- Após adiconar o plugin (conforme orientação acima), abra o ***Apache JMeter*** e carregue algum script de sua preferenci ou poderá seguir com o script disponibilizado abaixo. Lembrando que o arquivo precisa ser descompactado  e carreggado no JMeter.
 
-[SCRIPT_JPetStore_BackendListener_InfluxDB2.zip](https://github.com/leandrogf1980/config_InfluxDB_in_JMeter_using_BackendListener/files/11133465/SCRIPT_JPetStore_BackendListener_InfluxDB2.zip)
+[SCRIPT_JPetStore_BackendListener_InfluxDB2.zip](https://github.com/leandrogf1980/config_InfluxDB_in_JMeter_using_BackendListener/files/11133481/SCRIPT_JPetStore_BackendListener_InfluxDB2.zip)
 
 2- Clique com o direito do mouse em: ***Test Plan > Listener > Backend Listener***.
 
